@@ -2,16 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b2cedf5-9f2d-47c5-a989-d6cbf6df3b85" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/auth.qN0tAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/auth.qN0tAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/extensions.FGwmlA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/extensions.FGwmlA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/graphql.6bO1EA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/graphql.6bO1EA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/graphql_public.f3MqDw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/graphql_public.f3MqDw.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/pgbouncer.E3m6rQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/pgbouncer.E3m6rQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/pgsodium.8AauhQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/pgsodium.8AauhQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/pgsodium_masks.-EyzsA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/realtime.a63JzA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/storage.e0Kwjw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/storage.e0Kwjw.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prisma/schema.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/schema.prisma" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.cjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="bc9e1402-058e-494f-8168-358a9cb86fec" value="Blue" />
+    </colors>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,15 +59,23 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/veilics/JetBrains/WebStormProjects/shift_t3&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/veilics/JetBrains/WebStormProjects/shift_t3/node_modules/prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
     &quot;ts.external.directory.path&quot;: &quot;/Users/veilics/JetBrains/WebStormProjects/shift_t3/node_modules/typescript/lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -49,6 +89,9 @@
       <workItem from="1677908845791" duration="435000" />
       <workItem from="1678267272200" duration="5798000" />
       <workItem from="1678350652835" duration="392000" />
+      <workItem from="1678356588153" duration="26000" />
+      <workItem from="1678356640110" duration="752000" />
+      <workItem from="1678367373848" duration="5000" />
     </task>
     <servers />
   </component>
