@@ -113,6 +113,10 @@ fabric.properties
 .idea/**/azureSettings.xml
 
 
+
+#Jetbrains Settings
+/.idea
+
 # dependencies
 /node_modules
 /.pnp
