@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b2cedf5-9f2d-47c5-a989-d6cbf6df3b85" name="Changes" comment="Jetbrains updated">
-      <change afterPath="$PROJECT_DIR$/src/pages/_document.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="3b2cedf5-9f2d-47c5-a989-d6cbf6df3b85" name="Changes" comment="topics implemented">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/api/routers/topics.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/api/routers/topics.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/env.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/src/env.mjs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678367672786</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="topics implemented">
+      <created>1678371810944</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678371810944</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +113,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Jetbrains updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jetbrains updated" />
+    <MESSAGE value="topics implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="topics implemented" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
