@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b2cedf5-9f2d-47c5-a989-d6cbf6df3b85" name="Changes" comment=".gitignore updated - alert by GitGuardian">
-      <change afterPath="$PROJECT_DIR$/src/components/NoteCard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NoteEditor.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/api/routers/note.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/api/root.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/api/root.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/api/routers/topics.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/api/routers/topic.ts" afterDir="false" />
-    </list>
+    <list default="true" id="3b2cedf5-9f2d-47c5-a989-d6cbf6df3b85" name="Changes" comment="post app completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +30,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2MXLBWVAhBHoFMkoSzhWMt78ZVg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -66,9 +51,10 @@
     "last_opened_file_path": "/Users/veilics/JetBrains/WebStormProjects/shift_t3",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "/Users/veilics/JetBrains/WebStormProjects/shift_t3/node_modules/prettier",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.sourceCode.TypeScript",
     "show.migrate.to.gradle.popup": "false",
-    "ts.external.directory.path": "/Users/veilics/JetBrains/WebStormProjects/shift_t3/node_modules/typescript/lib",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -94,7 +80,7 @@
       <workItem from="1678367621254" duration="3844000" />
       <workItem from="1678371484582" duration="37000" />
       <workItem from="1678371536288" duration="103000" />
-      <workItem from="1678375629647" duration="4915000" />
+      <workItem from="1678375629647" duration="5370000" />
     </task>
     <task id="LOCAL-00001" summary="Jetbrains updated">
       <created>1678367672786</created>
@@ -117,7 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678372384669</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="post app completed">
+      <created>1678382986245</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678382986245</updated>
+    </task>
+    <task id="LOCAL-00005" summary="post app completed">
+      <created>1678383135528</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678383135528</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +138,8 @@
     <MESSAGE value="Jetbrains updated" />
     <MESSAGE value="topics implemented" />
     <MESSAGE value=".gitignore updated - alert by GitGuardian" />
-    <option name="LAST_COMMIT_MESSAGE" value=".gitignore updated - alert by GitGuardian" />
+    <MESSAGE value="post app completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="post app completed" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

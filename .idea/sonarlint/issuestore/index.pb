@@ -1,32 +1,6 @@
 
 N
 .next/static/chunks/webpack.js,9/6/961985142c1449ba4e31599b4a6cae7761fbbf3e
-­
-}.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/pgbouncer.E3m6rQ.meta,4/6/469b90e2e5a49e552f18c1d9ca7f85754429a2a6
-®
-~.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta,b/a/ba3608e9146350cc216cb346a0dfb79975cd1981
-ª
-z.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta,b/2/b21baf1c7ca986b3105308f2b2dc06a00e51b1a6
-¨
-x.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/auth.qN0tAA.meta,d/b/db3d7b7b8b6809842d9155abab6b4a219f716e10
-¬
-|.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/realtime.a63JzA.meta,b/7/b7a3ac38da59b9e68829fc3cf891e6f27933b883
-«
-{.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/graphql.6bO1EA.meta,2/c/2cdaa5cd0d59db568749f5dc0a7b735e0c9f0a9f
-³
-‚.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/pgsodium_masks.-EyzsA.meta,d/7/d71456af242d32a8a1bff55ffce7001fdcac8804
-•
-e.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ.meta,4/d/4d8ea43b5e0b0dee68c6c9ff9bbe48e3ced11be9
-®
-~.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/extensions.FGwmlA.meta,6/e/6ea0594aad294ca50344041a945a7a6e6c77ff85
-«
-{.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/storage.e0Kwjw.meta,b/c/bcf4d82636925f3e1f179db45328b105114fed3d
-¬
-|.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/pgsodium.8AauhQ.meta,c/a/cad5d01628642a9a8c3a1e0ab03b62dfc35dcb8e
-·
-†.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta,d/e/deda15a488c96c2dc860643285b37e2458bf80d4
-³
-‚.idea/dataSources/bc9e1402-058e-494f-8168-358a9cb86fec/storage_v2/_src_/database/postgres.edMnLQ/schema/graphql_public.f3MqDw.meta,c/0/c0a28b37c5efa9e2f5ecebb55b1826c9db7b4e83
 ?
 next.config.mjs,d/f/df8bd0b91ecb778bf2a1b031c7677390c7442bb4
 Q
@@ -35,17 +9,11 @@ Q
 src/server/db.ts,7/a/7af89e7a3037796e469e8301b97510ea9e80df0e
 B
 src/server/auth.ts,c/9/c90f8091a9577c71376aa0a9636c1f221206d76e
-@
-src/utils/api.ts,e/7/e7319660e090e6c46b07c26ecf628486913e362f
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
-w
-G.idea/sonarlint/issuestore/9/6/961985142c1449ba4e31599b4a6cae7761fbbf3e,b/8/b8e3331cae980646ad0dc918566eb87916d46a40
 G
 src/pages/_document.tsx,0/5/052f85edfc3fbb9d129530f0f8b191ff6c16f7ce
-P
- src/server/api/routers/topics.ts,0/d/0d4475815620b1d5a620b29235bcc82d939247d1
 4
 .env,3/c/3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
